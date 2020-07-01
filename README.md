@@ -8,3 +8,4 @@ This project firstly requires you to log in to the web page WeChat and your acco
 To start chat with your GF automaticly, just change your girlfriend/boyfriend ids in GF_company.py  
 The greetings can be modified to whatever you want（something like litte sweetie, honey baby ...).  
 (:
+ 
